@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+
+[2026-06-15T13:54:32+08:00] 101.8.36.202 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-15T19:40:00+08:00] 101.8.25.49 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string

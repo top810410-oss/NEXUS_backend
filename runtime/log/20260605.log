@@ -1,0 +1,104 @@
+---------------------------------------------------------------
+
+[2026-06-05T09:37:16+08:00] 112.96.170.140 POST 012.demo.zhigou888.cn/im/sign/updateSignData
+[ error ] [8]未定义变量: scores
+---------------------------------------------------------------
+
+[2026-06-05T15:07:21+08:00] 112.96.170.140 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6391
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 123456a
+    [content] => 1
+    [type] => 0
+    [user_id] => 6391
+    [list_id] => 4BA507E42E412C73BEB6EEBD344EB959
+    [keywords] => 1
+)
+
+---------------------------------------------------------------
+
+[2026-06-05T15:07:25+08:00] 112.96.170.140 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6391
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 123456a
+    [content] => 1
+    [type] => 0
+    [user_id] => 6391
+    [list_id] => 4BA507E42E412C73BEB6EEBD344EB959
+    [keywords] => 1
+)
+
+---------------------------------------------------------------
+
+[2026-06-05T15:07:31+08:00] 112.96.170.140 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6391
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 123456a
+    [content] => 你好
+    [type] => 0
+    [user_id] => 6391
+    [list_id] => 4BA507E42E412C73BEB6EEBD344EB959
+    [keywords] => 你好
+)
+
+---------------------------------------------------------------
+
+[2026-06-05T15:07:40+08:00] 112.96.170.140 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6391
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 123456a
+    [content] => [微笑]
+    [type] => 0
+    [user_id] => 6391
+    [list_id] => 4BA507E42E412C73BEB6EEBD344EB959
+    [keywords] => [微笑]
+)
+
+---------------------------------------------------------------
+
+[2026-06-05T15:07:52+08:00] 112.96.170.140 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6391
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 123456a
+    [content] => 77777
+    [type] => 0
+    [user_id] => 6391
+    [list_id] => 4BA507E42E412C73BEB6EEBD344EB959
+    [keywords] => 77777
+)
+

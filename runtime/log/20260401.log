@@ -1,0 +1,24 @@
+---------------------------------------------------------------
+
+[2026-04-01T00:44:23+08:00] 117.152.52.136 POST 012.demo.zhigou888.cn/im/sign/updateSignData
+[ error ] [8]未定义变量: scores
+---------------------------------------------------------------
+
+[2026-04-01T00:46:15+08:00] 117.152.52.136 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6265
+            [1] => 6114
+        )
+
+    [content_type] => 2
+    [username] => 123456
+    [content] => 
+    [type] => 0
+    [user_id] => 6114
+    [list_id] => 196cb19c964d29f7bd503ea41a5fa03f
+    [keywords] => 
+)
+

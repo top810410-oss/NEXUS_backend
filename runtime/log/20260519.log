@@ -1,0 +1,40 @@
+---------------------------------------------------------------
+
+[2026-05-19T16:22:48+08:00] 223.101.11.160 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6369
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 123123123
+    [content] => 123
+    [type] => 0
+    [user_id] => 6369
+    [list_id] => 7D8A578E531807C1FE02189C667E4199
+    [keywords] => 123
+)
+
+---------------------------------------------------------------
+
+[2026-05-19T16:23:00+08:00] 223.101.11.160 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6369
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 123123123
+    [content] => 122222222223
+    [type] => 0
+    [user_id] => 6369
+    [list_id] => 7D8A578E531807C1FE02189C667E4199
+    [keywords] => 122222222223
+)
+

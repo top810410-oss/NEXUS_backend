@@ -1,0 +1,24 @@
+---------------------------------------------------------------
+
+[2026-05-07T16:24:43+08:00] 117.29.70.89 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6364
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => ceshi123888
+    [content] => 111
+    [type] => 0
+    [user_id] => 6364
+    [list_id] => 331D5790DE1B367CF54C6C25040C2D37
+    [keywords] => 111
+)
+
+---------------------------------------------------------------
+
+[2026-05-07T23:44:13+08:00] 223.160.164.221 POST 012.demo.zhigou888.cn/im/sign/updateSignData
+[ error ] [8]未定义变量: scores

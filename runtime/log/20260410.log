@@ -1,0 +1,22 @@
+---------------------------------------------------------------
+
+[2026-04-10T22:28:31+08:00] 96.0.147.101 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6356
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => aaaaaaa
+    [content] => 1
+
+    [type] => 0
+    [user_id] => 6356
+    [list_id] => 99D962D5F13748CE02F07304E0315E39
+    [keywords] => 1
+
+)
+

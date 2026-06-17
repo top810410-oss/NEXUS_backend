@@ -1,0 +1,250 @@
+---------------------------------------------------------------
+
+[2026-03-29T15:58:26+08:00] 13.228.102.70 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6348
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => qwe113
+    [content] => 1
+
+    [type] => 0
+    [user_id] => 6348
+    [list_id] => 1D9DA5D140FD4F7B6FC4172F502C6C19
+    [keywords] => 1
+
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T15:58:46+08:00] 13.228.102.70 POST 012.demo.zhigou888.cn/im/sign/updateSignData
+[ error ] [8]未定义变量: scores
+---------------------------------------------------------------
+
+[2026-03-29T16:49:51+08:00] 203.160.86.125 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6348
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => qwe113
+    [content] =>  1
+    [type] => 0
+    [user_id] => 6348
+    [list_id] => 1D9DA5D140FD4F7B6FC4172F502C6C19
+    [keywords] =>  1
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T16:49:55+08:00] 203.160.86.125 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6348
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => qwe113
+    [content] => 哈哈哈哈
+    [type] => 0
+    [user_id] => 6348
+    [list_id] => 1D9DA5D140FD4F7B6FC4172F502C6C19
+    [keywords] => 哈哈哈哈
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T16:52:03+08:00] 203.160.86.125 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6348
+            [1] => 6349
+        )
+
+    [content_type] => 0
+    [username] => qwe113
+    [content] => ddjjd
+    [type] => 0
+    [user_id] => 6348
+    [list_id] => 93d2ba9ab491a0ecbc02eeab9aa5c726
+    [keywords] => ddjjd
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T23:36:01+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6350
+            [1] => 5880
+        )
+
+    [content_type] => 2
+    [username] => am0086
+    [content] => 
+    [type] => 0
+    [user_id] => 6350
+    [list_id] => 3B8750AB48230587A0810DD22709B202
+    [keywords] => 
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T23:36:09+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6350
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => am0086
+    [content] => [调皮][调皮][调皮][调皮]
+    [type] => 0
+    [user_id] => 6350
+    [list_id] => 3B8750AB48230587A0810DD22709B202
+    [keywords] => [调皮][调皮][调皮][调皮]
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T23:37:46+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6350
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => am0086
+    [content] => 接视频我看一下这个视频质量怎么样？
+    [type] => 0
+    [user_id] => 6350
+    [list_id] => 3B8750AB48230587A0810DD22709B202
+    [keywords] => 接视频我看一下这个视频质量怎么样？
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T23:37:55+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/sign/updateSignData
+[ error ] [8]未定义变量: scores
+---------------------------------------------------------------
+
+[2026-03-29T23:44:01+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6351
+            [1] => 6350
+        )
+
+    [content_type] => 0
+    [username] => am0089
+    [content] => ghhhq
+    [type] => 0
+    [user_id] => 6351
+    [list_id] => 8b947a10d41c11955e8bb2154882c999
+    [keywords] => ghhhq
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T23:52:47+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6351
+            [1] => 6350
+        )
+
+    [content_type] => 0
+    [username] => am0089
+    [content] => [墨镜][墨镜][墨镜][墨镜][墨镜]
+    [type] => 0
+    [user_id] => 6351
+    [list_id] => 8b947a10d41c11955e8bb2154882c999
+    [keywords] => [墨镜][墨镜][墨镜][墨镜][墨镜]
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T23:53:05+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6351
+            [1] => 6350
+        )
+
+    [content_type] => 0
+    [username] => am0086
+    [content] => [调皮][调皮][调皮][调皮]
+    [type] => 0
+    [user_id] => 6350
+    [list_id] => 8b947a10d41c11955e8bb2154882c999
+    [keywords] => [调皮][调皮][调皮][调皮]
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T23:53:24+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6351
+            [1] => 6350
+        )
+
+    [content_type] => 0
+    [username] => am0089
+    [content] => bbbbnn
+    [type] => 0
+    [user_id] => 6351
+    [list_id] => 8b947a10d41c11955e8bb2154882c999
+    [keywords] => bbbbnn
+)
+
+---------------------------------------------------------------
+
+[2026-03-29T23:53:40+08:00] 39.129.159.115 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6351
+            [1] => 6350
+        )
+
+    [content_type] => 0
+    [username] => am0086
+    [content] => [笑][笑][笑][笑][笑]
+    [type] => 0
+    [user_id] => 6350
+    [list_id] => 8b947a10d41c11955e8bb2154882c999
+    [keywords] => [笑][笑][笑][笑][笑]
+)
+

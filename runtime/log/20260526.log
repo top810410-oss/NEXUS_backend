@@ -1,0 +1,100 @@
+---------------------------------------------------------------
+
+[2026-05-26T15:13:28+08:00] 14.157.64.174 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6374
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 55556666
+    [content] => [墨镜][墨镜][墨镜]
+    [type] => 0
+    [user_id] => 6374
+    [list_id] => 2DB559F9E74096F8D69BF0653F7A29E7
+    [keywords] => [墨镜][墨镜][墨镜]
+)
+
+---------------------------------------------------------------
+
+[2026-05-26T15:13:34+08:00] 14.157.64.174 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6374
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 55556666
+    [content] => [调皮]
+    [type] => 0
+    [user_id] => 6374
+    [list_id] => 2DB559F9E74096F8D69BF0653F7A29E7
+    [keywords] => [调皮]
+)
+
+---------------------------------------------------------------
+
+[2026-05-26T15:15:05+08:00] 14.157.64.174 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6374
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 55556666
+    [content] => [快乐]
+    [type] => 0
+    [user_id] => 6374
+    [list_id] => 2DB559F9E74096F8D69BF0653F7A29E7
+    [keywords] => [快乐]
+)
+
+---------------------------------------------------------------
+
+[2026-05-26T15:16:05+08:00] 14.157.64.174 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6374
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 55556666
+    [content] => 你好啊
+    [type] => 0
+    [user_id] => 6374
+    [list_id] => 2DB559F9E74096F8D69BF0653F7A29E7
+    [keywords] => 你好啊
+)
+
+---------------------------------------------------------------
+
+[2026-05-26T15:17:34+08:00] 14.157.64.174 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6374
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 55556666
+    [content] => [微笑]
+    [type] => 0
+    [user_id] => 6374
+    [list_id] => 2DB559F9E74096F8D69BF0653F7A29E7
+    [keywords] => [微笑]
+)
+

@@ -1,0 +1,328 @@
+---------------------------------------------------------------
+
+[2026-06-12T01:34:23+08:00] 171.223.174.23 POST 47.86.192.135/superloginAction.html
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '47_86_192_135.txzh_bsys_superuser' doesn't exist
+---------------------------------------------------------------
+
+[2026-06-12T01:34:26+08:00] 171.223.174.23 POST 47.86.192.135/superloginAction.html
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '47_86_192_135.txzh_bsys_superuser' doesn't exist
+---------------------------------------------------------------
+
+[2026-06-12T01:34:29+08:00] 171.223.174.23 POST 47.86.192.135/superloginAction.html
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '47_86_192_135.txzh_bsys_superuser' doesn't exist
+---------------------------------------------------------------
+
+[2026-06-12T01:34:40+08:00] 171.223.174.23 POST 47.86.192.135/superloginAction.html
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '47_86_192_135.txzh_bsys_superuser' doesn't exist
+---------------------------------------------------------------
+
+[2026-06-12T01:34:40+08:00] 171.223.174.23 POST 47.86.192.135/superloginAction.html
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '47_86_192_135.txzh_bsys_superuser' doesn't exist
+---------------------------------------------------------------
+
+[2026-06-12T01:34:52+08:00] 171.223.174.23 POST 47.86.192.135/superloginAction.html
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '47_86_192_135.txzh_bsys_superuser' doesn't exist
+---------------------------------------------------------------
+
+[2026-06-12T01:35:06+08:00] 171.223.174.23 POST 47.86.192.135/superloginAction.html
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '47_86_192_135.txzh_bsys_superuser' doesn't exist
+---------------------------------------------------------------
+
+[2026-06-12T01:41:34+08:00] 171.223.174.23 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T01:41:52+08:00] 171.223.174.23 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T01:41:56+08:00] 171.223.174.23 POST 47.86.192.135/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6391
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 6666
+    [content] => ces
+    [type] => 0
+    [user_id] => 5880
+    [list_id] => 4BA507E42E412C73BEB6EEBD344EB959
+    [keywords] => ces
+)
+
+---------------------------------------------------------------
+
+[2026-06-12T01:46:54+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T01:46:59+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T01:47:02+08:00] 101.8.37.66 POST 47.86.192.135/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6386
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 6666
+    [content] => .
+    [type] => 0
+    [user_id] => 5880
+    [list_id] => 3308B29D18C04D655518EA1BB85F5CC1
+    [keywords] => .
+)
+
+---------------------------------------------------------------
+
+[2026-06-12T01:47:06+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T01:47:10+08:00] 101.8.37.66 POST 47.86.192.135/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6391
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 6666
+    [content] => .
+    [type] => 0
+    [user_id] => 5880
+    [list_id] => 4BA507E42E412C73BEB6EEBD344EB959
+    [keywords] => .
+)
+
+---------------------------------------------------------------
+
+[2026-06-12T01:47:33+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T01:47:37+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T01:48:04+08:00] 101.8.37.66 POST 47.86.192.135/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6392
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 2426681
+    [content] => 您好
+    [type] => 0
+    [user_id] => 6392
+    [list_id] => EA12109EBB97D7FA449549174358DEAA
+    [keywords] => 您好
+)
+
+---------------------------------------------------------------
+
+[2026-06-12T03:15:44+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T03:20:35+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T03:20:39+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T03:20:42+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T03:23:36+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T09:42:09+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T09:48:42+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T09:48:50+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T09:49:13+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:29:08+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:29:57+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:05+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:10+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:15+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:18+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:26+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:29+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:38+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:41+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:43+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:46+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:50+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:56+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:30:58+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:31:02+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:31:32+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T10:31:36+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T11:19:45+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T11:19:47+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T12:25:46+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T12:25:53+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T12:25:59+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T12:30:05+08:00] 182.235.227.47 POST 47.86.192.135/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6393
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => Jerrylin50102
+    [content] => Hi
+    [type] => 0
+    [user_id] => 6393
+    [list_id] => 61781C4B230F02B7CF7D0D5A32945D8C
+    [keywords] => Hi
+)
+
+---------------------------------------------------------------
+
+[2026-06-12T12:30:31+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T12:30:34+08:00] 101.8.37.66 POST 47.86.192.135/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6393
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => 6666
+    [content] => 您好
+    [type] => 0
+    [user_id] => 5880
+    [list_id] => 61781C4B230F02B7CF7D0D5A32945D8C
+    [keywords] => 您好
+)
+
+---------------------------------------------------------------
+
+[2026-06-12T12:51:57+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T12:52:00+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T12:52:09+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T12:52:18+08:00] 101.8.37.66 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string
+---------------------------------------------------------------
+
+[2026-06-12T13:52:35+08:00] 171.223.174.23 POST 47.86.192.135/im/get/friendList
+[ error ] [8]iconv_substr(): Detected an illegal character in input string

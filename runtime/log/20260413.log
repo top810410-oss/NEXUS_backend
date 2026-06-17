@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+
+[2026-04-13T04:21:31+08:00] 8.223.22.83 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6358
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => kyolwzx
+    [content] => [调皮][调皮][调皮]
+    [type] => 0
+    [user_id] => 6358
+    [list_id] => 7D834FE603B7A2F0B16E6B36FAD78FDB
+    [keywords] => [调皮][调皮][调皮]
+)
+

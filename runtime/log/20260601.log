@@ -1,0 +1,68 @@
+---------------------------------------------------------------
+
+[2026-06-01T10:41:54+08:00] 39.149.13.155 POST 012.demo.zhigou888.cn/im/sign/updateSignData
+[ error ] [8]未定义变量: scores
+---------------------------------------------------------------
+
+[2026-06-01T10:43:31+08:00] 39.149.13.155 POST 012.demo.zhigou888.cn/im/upload/chat
+[ error ] [2]mkdir(): File exists
+---------------------------------------------------------------
+
+[2026-06-01T10:43:31+08:00] 39.149.13.155 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6384
+            [1] => 5880
+        )
+
+    [content_type] => 2
+    [username] => xyz123456
+    [content] => 
+    [type] => 0
+    [user_id] => 6384
+    [list_id] => CEC51E29ABA77B6BA5CE798CBE6C476E
+    [keywords] => 
+)
+
+---------------------------------------------------------------
+
+[2026-06-01T10:43:31+08:00] 39.149.13.155 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6384
+            [1] => 5880
+        )
+
+    [content_type] => 2
+    [username] => xyz123456
+    [content] => 
+    [type] => 0
+    [user_id] => 6384
+    [list_id] => CEC51E29ABA77B6BA5CE798CBE6C476E
+    [keywords] => 
+)
+
+---------------------------------------------------------------
+
+[2026-06-01T10:43:31+08:00] 39.149.13.155 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6384
+            [1] => 5880
+        )
+
+    [content_type] => 2
+    [username] => xyz123456
+    [content] => 
+    [type] => 0
+    [user_id] => 6384
+    [list_id] => CEC51E29ABA77B6BA5CE798CBE6C476E
+    [keywords] => 
+)
+

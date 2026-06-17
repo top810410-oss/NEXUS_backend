@@ -1,0 +1,44 @@
+---------------------------------------------------------------
+
+[2026-04-18T10:28:04+08:00] 14.152.91.8 POST 012.demo.zhigou888.cn/im/sign/updateSignData
+[ error ] [8]未定义变量: scores
+---------------------------------------------------------------
+
+[2026-04-18T10:28:44+08:00] 14.152.91.8 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6359
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => wuchubuzai
+    [content] => 搜索
+    [type] => 0
+    [user_id] => 6359
+    [list_id] => F410C0FAB791E4FD95968C6155164C85
+    [keywords] => 搜索
+)
+
+---------------------------------------------------------------
+
+[2026-04-18T10:28:51+08:00] 14.152.91.8 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6359
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => wuchubuzai
+    [content] => 是是是
+    [type] => 0
+    [user_id] => 6359
+    [list_id] => F410C0FAB791E4FD95968C6155164C85
+    [keywords] => 是是是
+)
+

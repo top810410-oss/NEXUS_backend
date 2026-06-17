@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+
+[2026-04-09T14:34:19+08:00] 117.26.8.180 POST 012.demo.zhigou888.cn/im/message/textMsg
+[ info ] relay_msg:Array
+(
+    [user_ids] => Array
+        (
+            [0] => 6355
+            [1] => 5880
+        )
+
+    [content_type] => 0
+    [username] => niu998877
+    [content] => 你好
+    [type] => 0
+    [user_id] => 6355
+    [list_id] => F91D9CE0D31241344439666EA74D51AD
+    [keywords] => 你好
+)
+
